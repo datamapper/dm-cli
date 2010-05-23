@@ -10,7 +10,7 @@ begin
     gem.summary     = 'DataMapper plugin allowing interaction with models through a CLI'
     gem.description = gem.summary
     gem.email       = 'wayneeseguin [a] gmail [d] com'
-    gem.homepage    = 'http://github.com/datamapper/dm-more/tree/master/%s' % gem.name
+    gem.homepage    = 'http://github.com/datamapper/%s' % gem.name
     gem.authors     = [ 'Wayne E. Seguin' ]
 
     gem.rubyforge_project = 'datamapper'
